@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Output files
+output.txt
+scraped_data.xlsx
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Editor files (optional)
+.vscode/
+.idea/
