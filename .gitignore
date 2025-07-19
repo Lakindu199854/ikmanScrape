@@ -4,6 +4,7 @@ venv/
 # Output files
 output.txt
 scraped_data.xlsx
+output/
 
 # Bytecode and cache
 __pycache__/
